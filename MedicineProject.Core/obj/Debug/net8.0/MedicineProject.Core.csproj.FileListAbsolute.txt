@@ -1,0 +1,15 @@
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\bin\Debug\net8.0\MedicineProject.Core.deps.json
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\bin\Debug\net8.0\MedicineProject.Core.dll
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\bin\Debug\net8.0\MedicineProject.Core.pdb
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\bin\Debug\net8.0\MedicineProject.Database.dll
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\bin\Debug\net8.0\MedicineProject.Database.pdb
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\obj\Debug\net8.0\MedicineProject.Core.csproj.AssemblyReference.cache
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\obj\Debug\net8.0\MedicineProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\obj\Debug\net8.0\MedicineProject.Core.AssemblyInfoInputs.cache
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\obj\Debug\net8.0\MedicineProject.Core.AssemblyInfo.cs
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\obj\Debug\net8.0\MedicineProject.Core.csproj.CoreCompileInputs.cache
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\obj\Debug\net8.0\Medicine.A4DE9BB8.Up2Date
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\obj\Debug\net8.0\MedicineProject.Core.dll
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\obj\Debug\net8.0\refint\MedicineProject.Core.dll
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\obj\Debug\net8.0\MedicineProject.Core.pdb
+E:\PROGRAMOWANIE\kursy\MedicineProject\MedicineProject.Core\obj\Debug\net8.0\ref\MedicineProject.Core.dll

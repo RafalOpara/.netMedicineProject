@@ -1,0 +1,64 @@
+﻿@model DoctorViewModel
+
+@{
+    ViewData["Title"] = "Prescription Page";
+}
+
+<div>
+      Doctor's data: <br />
+      Id:@Model.Id <br />
+      FirstName: @Model.FirstName <br/>
+      LastName: @Model.LastName <br />
+      PhoneNumber: @Model.PhoneNumber <br />
+      WorkYears:  @Model.WorkYears <br />
+      IsAbleToMakePrescription: @Model.IsAbleToMakePrescription <br/>
+</div>
+
+<a asp-controller="Prescription" asp-action="Add" class="btn btn-success">Go to Add</a>
+<form asp-controller="Prescription" asp-action="Index">
+
+    <input type="text" name="FilterString" />
+    <button type="submit" class="btn btn-success">Filter</button>
+
+</form>
+
+
+
+<div class="text-center">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col"
+                    Id
+            </th>
+                <th scope="col"
+                    Name
+            </th>
+                </th>
+                <th scope="col"
+                    CreatedData
+            </th>
+                <th scope="col"
+                    Actions
+            </th>
+            </tr>
+
+        </thead>
+
+        <tbody>
+            @foreach (var prescriptions in Model.Prescriptions)
+            {
+                <tr>
+                    <th scope="row">@prescriptions.Id</th>
+                    <td>@prescriptions.Name</td>
+                    <td>
+                        <a asp-area="" asp-controller="Prescription" asp-action="View" asp-route-prescriptionId="@prescriptions.Id">View</a>
+                        |
+                        <a asp-area="" asp-controller="Prescription" asp-action="Delete" asp-route-prescriptionId="@prescriptions.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>

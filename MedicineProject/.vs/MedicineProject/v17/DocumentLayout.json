@@ -1,0 +1,487 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D27BA-2813-4532-BA46-8CF46A842436}|..\\MedicineApp\\MedicineApp.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineapp\\controllers\\homecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D27BA-2813-4532-BA46-8CF46A842436}|..\\MedicineApp\\MedicineApp.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineapp\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D27BA-2813-4532-BA46-8CF46A842436}|..\\MedicineApp\\MedicineApp.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D27BA-2813-4532-BA46-8CF46A842436}|..\\MedicineApp\\MedicineApp.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineapp\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D27BA-2813-4532-BA46-8CF46A842436}|..\\MedicineApp\\MedicineApp.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineapp\\mappers\\viewmodelmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D27BA-2813-4532-BA46-8CF46A842436}|..\\MedicineApp\\MedicineApp.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineapp\\models\\doctorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D27BA-2813-4532-BA46-8CF46A842436}|..\\MedicineApp\\MedicineApp.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineapp\\models\\medicineviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02756A58-65F4-4446-AE8E-C4B246656E74}|..\\MedicineProject.Core\\MedicineProject.Core.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.core\\dtos\\prescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02756A58-65F4-4446-AE8E-C4B246656E74}|..\\MedicineProject.Core\\MedicineProject.Core.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.core\\doctormanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C96F3A-C6A7-45D5-8C02-35A27CF35617}|..\\MedicineProject.Database\\MedicineProject.Database.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.database\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D27BA-2813-4532-BA46-8CF46A842436}|..\\MedicineApp\\MedicineApp.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineapp\\views\\prescription\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D27BA-2813-4532-BA46-8CF46A842436}|..\\MedicineApp\\MedicineApp.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineapp\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D27BA-2813-4532-BA46-8CF46A842436}|..\\MedicineApp\\MedicineApp.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineapp\\views\\medicine\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C96F3A-C6A7-45D5-8C02-35A27CF35617}|..\\MedicineProject.Database\\MedicineProject.Database.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.database\\entities\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D27BA-2813-4532-BA46-8CF46A842436}|..\\MedicineApp\\MedicineApp.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineapp\\views\\prescription\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02756A58-65F4-4446-AE8E-C4B246656E74}|..\\MedicineProject.Core\\MedicineProject.Core.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.core\\mappers\\dtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C96F3A-C6A7-45D5-8C02-35A27CF35617}|..\\MedicineProject.Database\\MedicineProject.Database.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.database\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C96F3A-C6A7-45D5-8C02-35A27CF35617}|..\\MedicineProject.Database\\MedicineProject.Database.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.database\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D27BA-2813-4532-BA46-8CF46A842436}|..\\MedicineApp\\MedicineApp.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02756A58-65F4-4446-AE8E-C4B246656E74}|..\\MedicineProject.Core\\MedicineProject.Core.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.core\\interfaces\\idoctormanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02756A58-65F4-4446-AE8E-C4B246656E74}|..\\MedicineProject.Core\\MedicineProject.Core.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.core\\dtos\\medicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C96F3A-C6A7-45D5-8C02-35A27CF35617}|..\\MedicineProject.Database\\MedicineProject.Database.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.database\\repositories\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C96F3A-C6A7-45D5-8C02-35A27CF35617}|..\\MedicineProject.Database\\MedicineProject.Database.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.database\\repositories\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C96F3A-C6A7-45D5-8C02-35A27CF35617}|..\\MedicineProject.Database\\MedicineProject.Database.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.database\\repositories\\prescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C96F3A-C6A7-45D5-8C02-35A27CF35617}|..\\MedicineProject.Database\\MedicineProject.Database.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.database\\repositories\\interfaces\\iprescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C96F3A-C6A7-45D5-8C02-35A27CF35617}|..\\MedicineProject.Database\\MedicineProject.Database.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.database\\repositories\\interfaces\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C96F3A-C6A7-45D5-8C02-35A27CF35617}|..\\MedicineProject.Database\\MedicineProject.Database.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.database\\repositories\\interfaces\\imedicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C96F3A-C6A7-45D5-8C02-35A27CF35617}|..\\MedicineProject.Database\\MedicineProject.Database.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.database\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C96F3A-C6A7-45D5-8C02-35A27CF35617}|..\\MedicineProject.Database\\MedicineProject.Database.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.database\\entities\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C96F3A-C6A7-45D5-8C02-35A27CF35617}|..\\MedicineProject.Database\\MedicineProject.Database.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineproject.database\\medicineprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D27BA-2813-4532-BA46-8CF46A842436}|..\\MedicineApp\\MedicineApp.csproj|e:\\programowanie\\kursy\\medicineproject\\medicineapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 562,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Views\\Prescription\\Add.cshtml",
+              "RelativeDocumentMoniker": "..\\MedicineApp\\Views\\Prescription\\Add.cshtml",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Views\\Prescription\\Add.cshtml",
+              "RelativeToolTip": "..\\MedicineApp\\Views\\Prescription\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:18:36.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Database\\Repositories\\Base\\BaseRepository.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "..\\MedicineProject.Database\\Repositories\\Base\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:50:41.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController .cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Controllers\\HomeController .cs",
+              "RelativeDocumentMoniker": "..\\MedicineApp\\Controllers\\HomeController .cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Controllers\\HomeController .cs",
+              "RelativeToolTip": "..\\MedicineApp\\Controllers\\HomeController .cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:34:08.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicineViewModel.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Models\\MedicineViewModel.cs",
+              "RelativeDocumentMoniker": "..\\MedicineApp\\Models\\MedicineViewModel.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Models\\MedicineViewModel.cs",
+              "RelativeToolTip": "..\\MedicineApp\\Models\\MedicineViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:21:10.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrescriptionDto.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Core\\Dtos\\PrescriptionDto.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Core\\Dtos\\PrescriptionDto.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Core\\Dtos\\PrescriptionDto.cs",
+              "RelativeToolTip": "..\\MedicineProject.Core\\Dtos\\PrescriptionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:04:18.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorManger.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Core\\DoctorManger.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Core\\DoctorManger.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Core\\DoctorManger.cs",
+              "RelativeToolTip": "..\\MedicineProject.Core\\DoctorManger.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowHUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:59:42.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\MedicineApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\MedicineApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T07:43:14.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorViewModel.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Models\\DoctorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\MedicineApp\\Models\\DoctorViewModel.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Models\\DoctorViewModel.cs",
+              "RelativeToolTip": "..\\MedicineApp\\Models\\DoctorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:21:09.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModelMapper.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Mappers\\ViewModelMapper.cs",
+              "RelativeDocumentMoniker": "..\\MedicineApp\\Mappers\\ViewModelMapper.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Mappers\\ViewModelMapper.cs",
+              "RelativeToolTip": "..\\MedicineApp\\Mappers\\ViewModelMapper.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA5wDgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:15:56.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicineController.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Controllers\\MedicineController.cs",
+              "RelativeDocumentMoniker": "..\\MedicineApp\\Controllers\\MedicineController.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Controllers\\MedicineController.cs",
+              "RelativeToolTip": "..\\MedicineApp\\Controllers\\MedicineController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDcAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:55:45.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Views\\Home\\Add.cshtml",
+              "RelativeDocumentMoniker": "..\\MedicineApp\\Views\\Home\\Add.cshtml",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Views\\Home\\Add.cshtml",
+              "RelativeToolTip": "..\\MedicineApp\\Views\\Home\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T07:42:52.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrescriptionController.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Controllers\\PrescriptionController.cs",
+              "RelativeDocumentMoniker": "..\\MedicineApp\\Controllers\\PrescriptionController.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Controllers\\PrescriptionController.cs",
+              "RelativeToolTip": "..\\MedicineApp\\Controllers\\PrescriptionController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:55:43.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Views\\Medicine\\Add.cshtml",
+              "RelativeDocumentMoniker": "..\\MedicineApp\\Views\\Medicine\\Add.cshtml",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Views\\Medicine\\Add.cshtml",
+              "RelativeToolTip": "..\\MedicineApp\\Views\\Medicine\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T17:52:17.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Views\\Prescription\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\MedicineApp\\Views\\Prescription\\Index.cshtml",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Views\\Prescription\\Index.cshtml",
+              "RelativeToolTip": "..\\MedicineApp\\Views\\Prescription\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:18:38.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Entities\\Prescription.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Database\\Entities\\Prescription.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Entities\\Prescription.cs",
+              "RelativeToolTip": "..\\MedicineProject.Database\\Entities\\Prescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:27:46.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DtoMapper.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Core\\Mappers\\DtoMapper.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Core\\Mappers\\DtoMapper.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Core\\Mappers\\DtoMapper.cs",
+              "RelativeToolTip": "..\\MedicineProject.Core\\Mappers\\DtoMapper.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:16:10.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Database\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "..\\MedicineProject.Database\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:18:04.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Database\\Entities\\Doctor.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Entities\\Doctor.cs",
+              "RelativeToolTip": "..\\MedicineProject.Database\\Entities\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:13:15.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MedicineApp\\Program.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\Program.cs",
+              "RelativeToolTip": "..\\MedicineApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:32:24.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDoctorManger.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Core\\Interfaces\\IDoctorManger.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Core\\Interfaces\\IDoctorManger.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Core\\Interfaces\\IDoctorManger.cs",
+              "RelativeToolTip": "..\\MedicineProject.Core\\Interfaces\\IDoctorManger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:02:58.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MedicineDto.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Core\\Dtos\\MedicineDto.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Core\\Dtos\\MedicineDto.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Core\\Dtos\\MedicineDto.cs",
+              "RelativeToolTip": "..\\MedicineProject.Core\\Dtos\\MedicineDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:59:59.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MedicineRepository.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\MedicineRepository.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Database\\Repositories\\MedicineRepository.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\MedicineRepository.cs",
+              "RelativeToolTip": "..\\MedicineProject.Database\\Repositories\\MedicineRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:27:06.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\Base\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Database\\Repositories\\Base\\IRepository.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\Base\\IRepository.cs",
+              "RelativeToolTip": "..\\MedicineProject.Database\\Repositories\\Base\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:09:19.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PrescriptionRepository.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\PrescriptionRepository.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Database\\Repositories\\PrescriptionRepository.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\PrescriptionRepository.cs",
+              "RelativeToolTip": "..\\MedicineProject.Database\\Repositories\\PrescriptionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:27:07.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPrescriptionRepository.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\Interfaces\\IPrescriptionRepository.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Database\\Repositories\\Interfaces\\IPrescriptionRepository.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\Interfaces\\IPrescriptionRepository.cs",
+              "RelativeToolTip": "..\\MedicineProject.Database\\Repositories\\Interfaces\\IPrescriptionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:27:24.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\Interfaces\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Database\\Repositories\\Interfaces\\IDoctorRepository.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\Interfaces\\IDoctorRepository.cs",
+              "RelativeToolTip": "..\\MedicineProject.Database\\Repositories\\Interfaces\\IDoctorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:49:18.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IMedicineRepository.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\Interfaces\\IMedicineRepository.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Database\\Repositories\\Interfaces\\IMedicineRepository.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\Interfaces\\IMedicineRepository.cs",
+              "RelativeToolTip": "..\\MedicineProject.Database\\Repositories\\Interfaces\\IMedicineRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:27:34.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Database\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "..\\MedicineProject.Database\\Repositories\\DoctorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:27:05.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Entities\\Medicine.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Database\\Entities\\Medicine.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\Entities\\Medicine.cs",
+              "RelativeToolTip": "..\\MedicineProject.Database\\Entities\\Medicine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:14:02.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MedicineProjectDbContext.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\MedicineProjectDbContext.cs",
+              "RelativeDocumentMoniker": "..\\MedicineProject.Database\\MedicineProjectDbContext.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineProject.Database\\MedicineProjectDbContext.cs",
+              "RelativeToolTip": "..\\MedicineProject.Database\\MedicineProjectDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:27:43.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\MedicineApp\\appsettings.json",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\MedicineProject\\MedicineApp\\appsettings.json",
+              "RelativeToolTip": "..\\MedicineApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T19:34:17.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
